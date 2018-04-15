@@ -53,6 +53,8 @@ yarn test
 yarn build
 ```
 
+* [Deployment Link](http://dull-punishment.surge.sh/)
+
 ## Built With
 
 * React 16.3.0 (UI Library)
@@ -60,6 +62,7 @@ yarn build
 * Material UI 1.0.0-beta.40 (Material design for React)
 * React Router 4.2.2 (Routing component)
 * Prettier 1.11.1 (Code Formatter)
+* JSON Server 0.12.1 (Mock Server for REST API)
 
 ## Authors
 
