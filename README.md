@@ -31,6 +31,8 @@ yarn
 yarn json:server
 ```
 
+**NOTES: YOU NEED TO CHANGE THE `BASE_URL` IN `src/api/index.js` IF YOU WANT TO CHANGE THE API TARGET TO LOCAL**
+
 * Runs the app in the development mode
 
 ```
