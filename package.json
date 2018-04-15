@@ -1,0 +1,29 @@
+{
+  "name": "mini-aspire",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "material-ui": "next",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "moment": "^2.22.1",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-router-dom": "^4.2.2"
+  },
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "json-server": "^0.12.1",
+    "lint-staged": "^7.0.1",
+    "prettier": "^1.11.1",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "precommit": "lint-staged",
+    "json:server": "json-server --watch db.json --port 3004"
+  }
+}

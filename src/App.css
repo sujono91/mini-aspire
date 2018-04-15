@@ -1,0 +1,45 @@
+.App {
+  width: 100%;
+  height: 100%;
+}
+
+.textField {
+  height: 70px;
+  width: 100%;
+}
+
+.error {
+  display: block;
+  font-size: 12px;
+  line-height: 12px;
+  color: rgb(244, 67, 54);
+  transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
+}
+
+.visible {
+  visibility: visible;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.fullContainer {
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputText {
+  width: 15em;
+}
+
+.column {
+  flex-direction: column;
+}
