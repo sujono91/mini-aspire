@@ -14,30 +14,6 @@
       "userId": 1,
       "datetime": 1523802540391,
       "id": 1
-    },
-    {
-      "amount": 1000,
-      "loanTerm": 20,
-      "loanRepayment": 20,
-      "userId": 1,
-      "datetime": 1523802630503,
-      "id": 2
-    },
-    {
-      "amount": 2000,
-      "loanTerm": 20,
-      "loanRepayment": 20,
-      "userId": 1,
-      "datetime": 1523802844995,
-      "id": 3
-    },
-    {
-      "amount": 3000,
-      "loanTerm": 30,
-      "loanRepayment": 30,
-      "userId": 1,
-      "datetime": 1523802888172,
-      "id": 4
     }
   ]
 }

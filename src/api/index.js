@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:3004';
+const BASE_URL = 'https://json-server-heroku-grishgtiik.now.sh';
 
 export function login(data) {
   return fetch(`${BASE_URL}/users`)
